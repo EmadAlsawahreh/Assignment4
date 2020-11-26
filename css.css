@@ -1,0 +1,45 @@
+.logos
+{
+    width: 18px;
+    height: 18px;
+    margin-left: 4px;
+}
+.bgNa
+{
+    background-image: url("imgs/header/5.jpg");
+}
+.limt
+{   
+    width:  auto;
+    height: 150px;
+    
+}   
+.trans
+{
+    background-color:rgba(0, 0, 0, 0);
+    color:white;
+    border: 1;
+    outline:none;
+    height:30px;
+    transition:height 1s;
+    -webkit-transition:height 1s;
+}
+body
+{
+    background-image: url("imgs/bgPhotos/15.jpg") ;
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.margIn
+{
+    margin: 40px;
+}
+.divs
+{
+
+    box-shadow: 1px 1px 7px 1px gray;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
